@@ -1,0 +1,8 @@
+--Hola ejecuta el .py que dice "main"--
+-debes tener instalada la libreria pyqt5-
+
+--creditos a:
+-diego maldonado dimaldonadom@unal.edu.co
+-guillermo guerrero aguerreroli@unal.edu.co
+-jhonatan castillo jacastillop@unal.edu.co
+-jerome castañeda scastanedal@unal.edu.co
